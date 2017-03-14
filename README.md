@@ -64,10 +64,10 @@ set_yaxis_label(
 	<table style="margin: 0px auto;">
 		<tr valign="middle">
 			<td align="center">
-                <img src="e:\ondrej-tucek\work\python36\_toGit\matlibplot_axis_label\fig1a-code.png" height="150">
+                <img src="https://raw.github.com/ondrej-tucek/multicolor-labels-axes/master/img/fig1a-code.png" height="150">
 			</td>
 			<td align="center">
-                <img src="e:\ondrej-tucek\work\python36\_toGit\matlibplot_axis_label\fig1a.png" height="250">
+                <img src="https://raw.github.com/ondrej-tucek/multicolor-labels-axes/master/img/fig1a.png" height="250">
 			</td>
 		</tr>
 	</table>
