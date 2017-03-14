@@ -114,14 +114,14 @@ set_yaxis_label(
 	<table style="margin: 0px auto;">
 		<tr valign="middle">
 			<td align="center" rowspan="2">
-                <img src="https://raw.github.com/ondrej-tucek/multicolor-labels-axes/master/img/fig3cd-code.png" height="520" width="220">
+                <img src="https://raw.github.com/ondrej-tucek/multicolor-labels-axes/master/img/fig3cd-code.png" height="560" width="220">
 			</td>
 			<td align="center">
                 <img src="https://raw.github.com/ondrej-tucek/multicolor-labels-axes/master/img/fig3c.png" height="250" width="330">
 			</td>
 		</tr>
         <tr>
-            <td>
+            <td align="center">
                 <img src="https://raw.github.com/ondrej-tucek/multicolor-labels-axes/master/img/fig3d.png" height="250" width="330">
             </td>
         </tr>
