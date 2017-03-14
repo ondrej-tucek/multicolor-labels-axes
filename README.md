@@ -67,7 +67,7 @@ set_yaxis_label(
                 <img src="https://raw.github.com/ondrej-tucek/multicolor-labels-axes/master/img/fig1a-code.png" height="150">
 			</td>
 			<td align="center">
-                <img src="https://raw.github.com/ondrej-tucek/multicolor-labels-axes/master/img/fig1a.png" height="250">
+                <img src="https://raw.github.com/ondrej-tucek/multicolor-labels-axes/master/img/fig1a.png">
 			</td>
 		</tr>
 	</table>
@@ -77,7 +77,7 @@ set_yaxis_label(
                 <img src="https://raw.github.com/ondrej-tucek/multicolor-labels-axes/master/img/fig1b-code.png" height="200">
 			</td>
 			<td align="center">
-                <img src="https://raw.github.com/ondrej-tucek/multicolor-labels-axes/master/img/fig1b.png" height="250">
+                <img src="https://raw.github.com/ondrej-tucek/multicolor-labels-axes/master/img/fig1b.png">
 			</td>
 		</tr>
 	</table>
@@ -87,7 +87,7 @@ set_yaxis_label(
                 <img src="https://raw.github.com/ondrej-tucek/multicolor-labels-axes/master/img/fig2a-code.png" height="170">
 			</td>
 			<td align="center" rowspan="2">
-                <img src="https://raw.github.com/ondrej-tucek/multicolor-labels-axes/master/img/fig2a.png" height="250">
+                <img src="https://raw.github.com/ondrej-tucek/multicolor-labels-axes/master/img/fig2a.png">
 			</td>
 		</tr>
         <tr>
@@ -102,7 +102,7 @@ set_yaxis_label(
                 <img src="https://raw.github.com/ondrej-tucek/multicolor-labels-axes/master/img/fig2b-code.png" height="200">
 			</td>
 			<td align="center" rowspan="2">
-                <img src="https://raw.github.com/ondrej-tucek/multicolor-labels-axes/master/img/fig2b.png" height="250">
+                <img src="https://raw.github.com/ondrej-tucek/multicolor-labels-axes/master/img/fig2b.png">
 			</td>
 		</tr>
         <tr>
@@ -117,12 +117,12 @@ set_yaxis_label(
                 <img src="https://raw.github.com/ondrej-tucek/multicolor-labels-axes/master/img/fig3cd-code.png" height="600">
 			</td>
 			<td align="center">
-                <img src="https://raw.github.com/ondrej-tucek/multicolor-labels-axes/master/img/fig3c.png" height="250">
+                <img src="https://raw.github.com/ondrej-tucek/multicolor-labels-axes/master/img/fig3c.png">
 			</td>
 		</tr>
         <tr>
             <td align="center">
-                <img src="https://raw.github.com/ondrej-tucek/multicolor-labels-axes/master/img/fig3d.png" height="250">
+                <img src="https://raw.github.com/ondrej-tucek/multicolor-labels-axes/master/img/fig3d.png">
             </td>
         </tr>
 	</table>
