@@ -137,5 +137,5 @@ set_yaxis_label(
 - [ ] multicolor labels of axis X
 
 ## License
-[MIT](https://github.com/ondrej-tucek/city-pollution/blob/master/LICENSE)
+[MIT](https://github.com/ondrej-tucek/multicolor-labels-axes/blob/master/LICENSE)
 
