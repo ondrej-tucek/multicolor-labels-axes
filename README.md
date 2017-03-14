@@ -74,20 +74,20 @@ set_yaxis_label(
 	<table style="margin: 0px auto;">
 		<tr valign="middle">
 			<td align="center">
-                <img src="e:\ondrej-tucek\work\python36\_toGit\matlibplot_axis_label\fig1b-code.png" height="200">
+                <img src="https://raw.github.com/ondrej-tucek/multicolor-labels-axes/master/img/fig1b-code.png" height="200">
 			</td>
 			<td align="center">
-                <img src="e:\ondrej-tucek\work\python36\_toGit\matlibplot_axis_label\fig1b.png" height="250" width="330">
+                <img src="https://raw.github.com/ondrej-tucek/multicolor-labels-axes/master/img/fig1b.png" height="250" width="330">
 			</td>
 		</tr>
 	</table>
 	<table style="margin: 0px auto;">
 		<tr valign="middle">
 			<td align="center">
-                <img src="e:\ondrej-tucek\work\python36\_toGit\matlibplot_axis_label\fig2a-code.png" height="170">
+                <img src="https://raw.github.com/ondrej-tucek/multicolor-labels-axes/master/img/fig2a-code.png" height="170">
 			</td>
 			<td align="center" rowspan="2">
-                <img src="e:\ondrej-tucek\work\python36\_toGit\matlibplot_axis_label\fig2a.png" height="250" width="330">
+                <img src="https://raw.github.com/ondrej-tucek/multicolor-labels-axes/master/img/fig2a.png" height="250" width="330">
 			</td>
 		</tr>
         <tr>
@@ -99,10 +99,10 @@ set_yaxis_label(
 	<table style="margin: 0px auto;">
 		<tr valign="middle">
 			<td align="center">
-                <img src="e:\ondrej-tucek\work\python36\_toGit\matlibplot_axis_label\fig2b-code.png" height="200">
+                <img src="https://raw.github.com/ondrej-tucek/multicolor-labels-axes/master/img/fig2b-code.png" height="200">
 			</td>
 			<td align="center" rowspan="2">
-                <img src="e:\ondrej-tucek\work\python36\_toGit\matlibplot_axis_label\fig2b.png" height="250" width="330">
+                <img src="https://raw.github.com/ondrej-tucek/multicolor-labels-axes/master/img/fig2b.png" height="250" width="330">
 			</td>
 		</tr>
         <tr>
@@ -114,21 +114,21 @@ set_yaxis_label(
 	<table style="margin: 0px auto;">
 		<tr valign="middle">
 			<td align="center" rowspan="2">
-                <img src="e:\ondrej-tucek\work\python36\_toGit\matlibplot_axis_label\fig3cd-code.png" height="520" width="220">
+                <img src="https://raw.github.com/ondrej-tucek/multicolor-labels-axes/master/img/fig3cd-code.png" height="520" width="220">
 			</td>
 			<td align="center">
-                <img src="e:\ondrej-tucek\work\python36\_toGit\matlibplot_axis_label\fig3c.png" height="250" width="330">
+                <img src="https://raw.github.com/ondrej-tucek/multicolor-labels-axes/master/img/fig3c.png" height="250" width="330">
 			</td>
 		</tr>
         <tr>
             <td>
-                <img src="e:\ondrej-tucek\work\python36\_toGit\matlibplot_axis_label\fig3d.png" height="250" width="330">
+                <img src="https://raw.github.com/ondrej-tucek/multicolor-labels-axes/master/img/fig3d.png" height="250" width="330">
             </td>
         </tr>
 	</table>
 </div>
 <p align="center">
-    <img src="e:\ondrej-tucek\work\python36\_toGit\matlibplot_axis_label\fig3a.png" height="415">
+    <img src="https://raw.github.com/ondrej-tucek/multicolor-labels-axes/master/img/fig3a.png" height="415">
 </p>
 
 ## TODO
