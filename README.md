@@ -1,4 +1,4 @@
-# Multicolor labels of axes
+# matplotlib - Multicolor labels of axes
 The following `plot_utils.py` file contains function `set_yaxis_label()` that allows the user set up color of labels vertical axes.
 This function was developed under `matplotlib` package.
 
