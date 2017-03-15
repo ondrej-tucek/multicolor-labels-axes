@@ -92,7 +92,7 @@ set_yaxis_label(
 		</tr>
         <tr>
             <td>
-                Used <a href="https://lmfit.github.io/lmfit-py/model.html">data</a>
+                Data taken from <a href="https://lmfit.github.io/lmfit-py/model.html">LMFIT</a>.
             </td>
         </tr>
 	</table>
@@ -107,19 +107,20 @@ set_yaxis_label(
 		</tr>
         <tr>
             <td>
-                Used <a href="https://lmfit.github.io/lmfit-py/model.html">data</a>
+                Data taken from <a href="https://lmfit.github.io/lmfit-py/model.html">LMFIT</a>.
             </td>
         </tr>
 	</table>
 	<table style="margin: 0px auto;">
 		<tr valign="middle">
-			<td align="center" rowspan="2">
-                <img src="https://raw.github.com/ondrej-tucek/multicolor-labels-axes/master/img/fig3cd-code.png" height="600">
+			<td align="center" rowspan="3">
+                <img src="https://raw.github.com/ondrej-tucek/multicolor-labels-axes/master/img/fig3cd-code.png">
 			</td>
 			<td align="center">
                 <img src="https://raw.github.com/ondrej-tucek/multicolor-labels-axes/master/img/fig3c.png">
 			</td>
 		</tr>
+		<tr style="height: 10px;"></tr>
         <tr>
             <td align="center">
                 <img src="https://raw.github.com/ondrej-tucek/multicolor-labels-axes/master/img/fig3d.png">
