@@ -138,5 +138,4 @@ set_yaxis_label(
 - [ ] multicolor labels of axis X
 
 ## License
-[MIT](https://github.com/ondrej-tucek/multicolor-labels-axes/blob/master/LICENSE)
-
+[![MIT](https://img.shields.io/packagist/l/doctrine/orm.svg)](https://github.com/ondrej-tucek/multicolor-labels-axes/blob/master/LICENSE)
